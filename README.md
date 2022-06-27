@@ -7,11 +7,11 @@
 </div>
 
 <h2>About me</h2>
-
+<div>
 <ul>
    <li>🏚️ I'm from Brazil, currently living in Dublin, Ireland</li>
 <ul>
-
+   </div>
 <h2>I code with</h2>
 
 <div align="">
