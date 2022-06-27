@@ -6,6 +6,9 @@
    
 </div>
 
+<h2>About me</h2>
+- I'm from Brazil, currently living in Dublin, Ireland
+
 <h2>I code with</h2>
 
 <div align="">
