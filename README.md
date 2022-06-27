@@ -1,10 +1,13 @@
-<h2 align="left">Hi 👋! My name is Iran Marley and I'm a Software Engineer from Brazil</h2>
+![Header](./[header])
+
 
 <div align="center">
    
 ![github contribution grid snake animation](https://raw.githubusercontent.com/iranmarley/iranmarley/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/iranmarley/iranmarley/output/github-contribution-grid-snake.svg#gh-light-mode-only)
    
 </div>
+
+## I code with
 
 <div align="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
@@ -20,15 +23,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
 </div>
 
+## My stats
 
-
-###
-
-
-
-###
-
-###
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&username=iranmarley"  alt="stats graph" height="170" />
@@ -42,10 +38,15 @@
   
   </div>
   
+  
+  
   <div align="center">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iranmarley&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)  
 </div>
+
+## Connect with me
+
 
 <div align="center">
 <a href="https://www.linkedin.com/in/iranmarley/" target="_blank">
