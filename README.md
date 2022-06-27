@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/iranmarley/iranmarley/master/header.png "Header")](#)
+[![Header](https://raw.githubusercontent.com/IranMarley/IranMarley/main/header.png "Header")](#)
 
 <div align="center">
    
