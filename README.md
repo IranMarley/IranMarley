@@ -6,7 +6,7 @@
    
 </div>
 
-## I code with
+<h2>I code with</h2>
 
 <div align="">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
@@ -22,39 +22,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
 </div>
 
-## My stats
-
+<h2>My stats</h2>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&username=iranmarley"  alt="stats graph" height="170" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&username=iranmarley"  height="170" alt="languages graph"  />
-  
-  
   </div>
   <div>
-  
-  
   </div>
-  
-  
-  
   <div align="center">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iranmarley&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)  
 </div>
 
-## Connect with me
-
+<h2>Connect with me</h2>
 
 <div align="">
 <a href="https://www.linkedin.com/in/iranmarley/" target="_blank">
    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
    </a>
 </div>
-
-<br clear="both">
-
-
-
-###
