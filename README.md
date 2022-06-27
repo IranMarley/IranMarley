@@ -45,7 +45,7 @@
 
 <br clear="both">
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake Light](github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
 
