@@ -9,7 +9,7 @@
 <h2>About me</h2>
 <div>
 <ul>
-   <li>🏚️ I'm from Brazil, currently living in Dublin, Ireland</li>
+   <li>🏚️ I'm from Brazil, currently living in Barcelona, Spain</li>
 <ul>
    </div>
 <h2>I code with</h2>
